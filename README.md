@@ -12,6 +12,7 @@ FirstName on tblPerson
 LastName on tblPerson
 
 Expected output:
+<br>
 --COLUMN on TABLE
 CREATE INDEX TABLE_COLUMN_idx
 ON TABLE (COLUMN);
