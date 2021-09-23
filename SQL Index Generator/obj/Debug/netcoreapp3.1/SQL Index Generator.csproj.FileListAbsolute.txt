@@ -1,0 +1,14 @@
+C:\Users\zack.hendrix\source\repos\SQL Index Generator\SQL Index Generator\bin\Debug\netcoreapp3.1\SQL Index Generator.exe
+C:\Users\zack.hendrix\source\repos\SQL Index Generator\SQL Index Generator\bin\Debug\netcoreapp3.1\SQL Index Generator.deps.json
+C:\Users\zack.hendrix\source\repos\SQL Index Generator\SQL Index Generator\bin\Debug\netcoreapp3.1\SQL Index Generator.runtimeconfig.json
+C:\Users\zack.hendrix\source\repos\SQL Index Generator\SQL Index Generator\bin\Debug\netcoreapp3.1\SQL Index Generator.runtimeconfig.dev.json
+C:\Users\zack.hendrix\source\repos\SQL Index Generator\SQL Index Generator\bin\Debug\netcoreapp3.1\SQL Index Generator.dll
+C:\Users\zack.hendrix\source\repos\SQL Index Generator\SQL Index Generator\bin\Debug\netcoreapp3.1\SQL Index Generator.pdb
+C:\Users\zack.hendrix\source\repos\SQL Index Generator\SQL Index Generator\obj\Debug\netcoreapp3.1\SQL Index Generator.csproj.AssemblyReference.cache
+C:\Users\zack.hendrix\source\repos\SQL Index Generator\SQL Index Generator\obj\Debug\netcoreapp3.1\SQL Index Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zack.hendrix\source\repos\SQL Index Generator\SQL Index Generator\obj\Debug\netcoreapp3.1\SQL Index Generator.AssemblyInfoInputs.cache
+C:\Users\zack.hendrix\source\repos\SQL Index Generator\SQL Index Generator\obj\Debug\netcoreapp3.1\SQL Index Generator.AssemblyInfo.cs
+C:\Users\zack.hendrix\source\repos\SQL Index Generator\SQL Index Generator\obj\Debug\netcoreapp3.1\SQL Index Generator.csproj.CoreCompileInputs.cache
+C:\Users\zack.hendrix\source\repos\SQL Index Generator\SQL Index Generator\obj\Debug\netcoreapp3.1\SQL Index Generator.dll
+C:\Users\zack.hendrix\source\repos\SQL Index Generator\SQL Index Generator\obj\Debug\netcoreapp3.1\SQL Index Generator.pdb
+C:\Users\zack.hendrix\source\repos\SQL Index Generator\SQL Index Generator\obj\Debug\netcoreapp3.1\SQL Index Generator.genruntimeconfig.cache
