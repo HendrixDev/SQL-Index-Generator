@@ -14,9 +14,6 @@ namespace SQL_Index_Generator
             //USE statement on top of script
             writer.WriteLine($"USE {database}\r\n");
 
-
-            string test = "";
-
             while (!reader.EndOfStream)
             {
                 string line = reader.ReadLine();
